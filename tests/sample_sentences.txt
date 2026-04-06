@@ -1,0 +1,14 @@
+# Valid sentences
+ya bana ba ba sa gatang motho
+ya bana ba ba gatang
+ya bana ba ba gatang motho phakela
+
+# Syntax error example
+ya bana sa ba gatang
+
+# Lexical error example
+ya bana ba ba sa taboga motho
+
+# Grammar conflict example
+ya bana ba ba sa gatang motho yo o gatang motho phakela
+ya bana ba ba gatang motho yo o gatang
